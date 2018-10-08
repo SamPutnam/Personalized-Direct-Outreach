@@ -2,11 +2,14 @@ How It Works
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Available%20Personalizations%20From%20User%20Signup%20Info.png" width=900>
 
-What It Looks Like To The Customer
+What It Looks Like To Cold Paid Traffic
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Welcome%20Call%20To%20Action%20Image%20-%20Control.png" width=900>
 
+What It Looks Like To The Customer In Our Database
+
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Personalize%20The%20Text%20In%20A%20Single%20Image%20To%20The%20User's%20Name.png" width=900>
+
 
 Exact Specifics
 
