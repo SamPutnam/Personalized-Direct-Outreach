@@ -22,6 +22,8 @@ How We Do It
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Dynamically%20Personalize%20Sales%20Page%20To%20Individual%20And%20Their%20Firm.png" width=900>
 
+Redirect To Sales Page
+
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Redirect%20User%20To%20Sales%20Page%20At%20Exact%20Time.png" width=900>
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Anyone%20Can%20Personalize%20Gmail%20Messages%20Without%20Using%20Email%20Marketing%20Software.png" width=450>
