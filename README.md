@@ -16,7 +16,7 @@ What The Welcome Message Looks Like To The Customer In Our Database
 
 The Email Personalizing Cold Direct Outreach
 
-<img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/How%20We%20Get%20Attention%20And%20Get%20Noticed%20With%20Multiple%20Personalized%20Elements.png" width=900>
+<img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/How%20We%20Get%20Attention%20And%20Get%20Noticed%20With%20Multiple%20Personalized%20Elements.png" width=1200>
 
 How We Do It
 
@@ -24,7 +24,7 @@ How We Do It
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Redirect%20User%20To%20Sales%20Page%20At%20Exact%20Time.png" width=900>
 
-<img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Anyone%20Can%20Personalize%20Gmail%20Messages%20Without%20Using%20Email%20Marketing%20Software.png" width=900>
+<img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/Anyone%20Can%20Personalize%20Gmail%20Messages%20Without%20Using%20Email%20Marketing%20Software.png" width=450>
 
 <img src="https://raw.githubusercontent.com/SamPutnam/Index-2018/master/How%20We%20Lift%20Click%20Through%20Rate%20And%20Hence%20Future%20Deliverability.png" width=900>
 
